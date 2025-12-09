@@ -1,0 +1,5 @@
+{
+  "name": "Golf Card Tracker",
+  "description": "A mobile-friendly web app to track penalty and reward cards during a golf round with automatic scoring and history management.",
+  "requestFramePermissions": []
+}
